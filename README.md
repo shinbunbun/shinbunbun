@@ -1,8 +1,14 @@
 # shinbunbun
 
-Portfolio: <https://shinbunbun.info/>
+## Portfolio
 
-制作物: <https://shinbunbun.info/products/>
+↓僕の情報はだいたいここに載ってます
+
+**<https://shinbunbun.info/>**
+
+（制作物: <https://shinbunbun.info/products/>）
+
+## Activity
 
 [![](https://raw.githubusercontent.com/shinbunbun/shinbunbun/main/profile-summary-card-output/nord_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/shinbunbun/shinbunbun/main/profile-summary-card-output/nord_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
